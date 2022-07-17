@@ -49,7 +49,7 @@ A good first step with any new dataset is to take a quick look at the dataset to
 
 We can quantify and visualize missing values as shown below: 
 
-<img  src="https://github.com/s-mushnoori/ames-housing/blob/main/Images/Neighborhood.PNG">
+<img  src="https://github.com/s-mushnoori/weber-shandwick-case-study/blob/main/Images/missing-values.png" width="650" height="350">
 
 The quantification is useful becasue we can see if any columns have a large number of missing values. Typically, if a column has more than 30-40% missing values, we need to think carefully about what imputation methods we follow. The larger the number of missing values in a dataset, the less useful imputation becomes. 
 
@@ -121,7 +121,7 @@ With the imputation complete, we can now convert all floats to ints for consiste
 
 The cleaned dataset can be viewed [here](https://github.com/s-mushnoori/weber-shandwick-case-study/blob/main/Cleaned/movies_data_clean.csv). Here is a snippet of the cleaned dataset.
 
-<img  src="https://github.com/s-mushnoori/ames-housing/blob/main/Images/Neighborhood.PNG">
+<img  src="https://github.com/s-mushnoori/weber-shandwick-case-study/blob/main/Images/movies-cleaned.png">
 
 ---
 
@@ -173,4 +173,4 @@ The final visualization was done using Tableau. The dashboard is interactive and
 
 Shown below is a static image of the dashboard.
 
-<img  src="https://github.com/s-mushnoori/ames-housing/blob/main/Images/Neighborhood.PNG">
+<img  src="https://github.com/s-mushnoori/weber-shandwick-case-study/blob/main/Images/dashboard-static.png">
